@@ -7,3 +7,6 @@
 [submodule "bundle/jslint"]
 	path = bundle/jslint
 	url = http://github.com/hallettj/jslint.vim
+[submodule "bundle/desertEx"]
+	path = bundle/desertEx
+	url = http://github.com/vim-scripts/desertEx
